@@ -1,0 +1,78 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+@media(max-width:576px){
+    .nicat h4{
+        margin-left: 6rem;
+    }
+    .seid a{
+        display: none;
+    }
+    .seid i{
+        font-size: 20px;
+        margin-left: 19rem;
+    }
+}
+#first{
+    padding: 7rem 0;
+}
+@media(max-width:576px){
+    #first .leftr{
+        margin-top: -3rem;
+        text-align: center;
+    }
+    #first .leftr{
+        
+    }
+    #first .leftr h4{
+        font-size: 30px;
+    }
+    #first .leftr p{
+        font-size: 20px;
+    }
+    #first .right{
+        display: none;
+    }
+}
+#secont{
+    padding: 3rem;
+}
+#secont .right i{
+    font-size: 50px;
+}
+#secont .right h1{
+    font-size: 25px;
+}
+#secont .right p{
+    font-size: 15px;
+}
+@media(max-width:576px){
+    #secont .left h1{
+        font-size: 20px;
+        text-align: center;
+    }
+    #secont .right i{
+        margin-top: 1rem;
+        font-size: 35px;
+    }
+    #secont .right h1{
+        margin-top: 1rem;
+        font-size: 17px;
+    }
+    #secont .right p{
+        font-size: 14px;
+    }
+}
+#tree{
+    padding: 3rem;
+}
+@media(max-width:576px){
+    #tree .center span{
+        font-size: 18px;
+    }
+}
+#four{
+    padding: 6rem;
+}
